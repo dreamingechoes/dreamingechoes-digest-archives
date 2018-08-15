@@ -2,6 +2,7 @@
 
 Original **HTML** archives for the [Dreamingechoes Digest](https://tinyletter.com/dreamingechoes) weekly newsletter.
 
+* [2018/08/15 - Issue #003](/issues/003.html)
 * [2018/08/07 - Issue #002](/issues/002.html)
 * [2018/07/29 - Issue #001](/issues/001.html)
 
